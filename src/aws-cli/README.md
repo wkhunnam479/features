@@ -1,3 +1,4 @@
+![witarea](https://github.com/devcontainers/features/assets/109616978/51130206-26f8-493f-a7ed-efaac37cad34)
 
 # AWS CLI (aws-cli)
 
